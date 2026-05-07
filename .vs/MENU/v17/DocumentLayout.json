@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\MENU\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2068BEC-DB71-6E2C-0067-0F3FE935A629}|Assembly-CSharp.csproj|c:\\users\\hp\\menu\\assets\\art\\characters\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2068BEC-DB71-6E2C-0067-0F3FE935A629}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\characters\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2068BEC-DB71-6E2C-0067-0F3FE935A629}|Assembly-CSharp.csproj|c:\\users\\hp\\menu\\assets\\art\\characters\\enemiai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2068BEC-DB71-6E2C-0067-0F3FE935A629}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\characters\\enemiai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2068BEC-DB71-6E2C-0067-0F3FE935A629}|Assembly-CSharp.csproj|c:\\users\\hp\\menu\\assets\\art\\characters\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2068BEC-DB71-6E2C-0067-0F3FE935A629}|Assembly-CSharp.csproj|C:\\Users\\hp\\MENU\\assets\\art\\characters\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2068BEC-DB71-6E2C-0067-0F3FE935A629}|Assembly-CSharp.csproj|solutionrelative:assets\\art\\characters\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,19 +27,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\MENU\\Assets\\Art\\Characters\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Art\\Characters\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\hp\\MENU\\Assets\\Art\\Characters\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Art\\Characters\\EnemySpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T14:32:53.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EnemiAi.cs",
               "DocumentMoniker": "C:\\Users\\hp\\MENU\\Assets\\Art\\Characters\\EnemiAi.cs",
               "RelativeDocumentMoniker": "Assets\\Art\\Characters\\EnemiAi.cs",
               "ToolTip": "C:\\Users\\hp\\MENU\\Assets\\Art\\Characters\\EnemiAi.cs",
               "RelativeToolTip": "Assets\\Art\\Characters\\EnemiAi.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAARAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T14:07:55.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\hp\\MENU\\Assets\\Art\\Characters\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Art\\Characters\\PlayerMovement.cs",
@@ -43,12 +64,7 @@
               "RelativeToolTip": "Assets\\Art\\Characters\\PlayerMovement.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAowBMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:33:37.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2026-05-07T13:33:37.581Z"
             }
           ]
         }
